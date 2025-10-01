@@ -18,7 +18,7 @@
 | Slug | slug | Short text | Yes | URL-friendly version (e.g., "luke-combs-dallas-2025") |
 | Artist | artist | Short text | Yes | Artist/performer name |
 | Venue | venue | Short text | Yes | Venue name |
-| City | city | Short text (dropdown) | Yes | Options: Dallas, Nashville, Chicago |
+| City | city | Short text (dropdown) | Yes | Options: New York City, Philadelphia, Boston |
 | Date | date | Date & time | Yes | Event date and time |
 | Genre | genre | Short text (dropdown) | Yes | Options: Country, Pop |
 | Featured Image | featuredImage | Media | Yes | Event promotional image |
@@ -85,23 +85,23 @@ CONTENTFUL_PREVIEW_ACCESS_TOKEN=your_preview_token_here
 
 ```
 Title: Luke Combs - Beer Never Broke My Heart Tour
-Slug: luke-combs-dallas-october-2025
+Slug: luke-combs-nyc-october-2025
 Artist: Luke Combs
-Venue: American Airlines Center
-City: Dallas
+Venue: Madison Square Garden
+City: New York City
 Date: 2025-10-15T19:30:00
 Genre: Country
-Description: Country superstar Luke Combs brings his chart-topping hits to Dallas...
+Description: Country superstar Luke Combs brings his chart-topping hits to NYC...
 Ticket Program: ticketnetwork
 ```
 
 ### Sample Venue Guide Article
 
 ```
-Title: American Airlines Center Seating Guide: Best Seats for Concerts
-Slug: american-airlines-center-seating-guide
+Title: Madison Square Garden Seating Guide: Best Seats for Concerts
+Slug: madison-square-garden-seating-guide
 Type: venue-guide
-City: Dallas
+City: New York City
 Content: [Rich text with sections on seating, parking, tips]
 Publish Date: 2025-10-01
 Author: ShowScout Team
@@ -110,10 +110,10 @@ Author: ShowScout Team
 ### Sample City Guide Article
 
 ```
-Title: Best Country Concerts in Nashville This Month
-Slug: best-country-concerts-nashville-october-2025
+Title: Best Country Concerts in Philadelphia This Month
+Slug: best-country-concerts-philadelphia-october-2025
 Type: city-guide
-City: Nashville
+City: Philadelphia
 Genre: Country
 Content: [Rich text with curated event picks]
 Publish Date: 2025-10-01
@@ -125,17 +125,17 @@ Author: ShowScout Team
 ### Initial Content (First 2 Weeks)
 
 **Venue Guides (3):**
-1. American Airlines Center Seating Guide (Dallas)
-2. Bridgestone Arena Seating Guide (Nashville)
-3. United Center Seating Guide (Chicago)
+1. Madison Square Garden Seating Guide (New York City)
+2. Wells Fargo Center Seating Guide (Philadelphia)
+3. TD Garden Seating Guide (Boston)
 
 **City Guides (6):**
-1. Best Country Concerts in Dallas This Month
-2. Best Pop Concerts in Dallas This Month
-3. Best Country Concerts in Nashville This Month
-4. Best Pop Concerts in Nashville This Month
-5. Best Country Concerts in Chicago This Month
-6. Best Pop Concerts in Chicago This Month
+1. Best Country Concerts in New York City This Month
+2. Best Pop Concerts in New York City This Month
+3. Best Country Concerts in Philadelphia This Month
+4. Best Pop Concerts in Philadelphia This Month
+5. Best Country Concerts in Boston This Month
+6. Best Pop Concerts in Boston This Month
 
 **Concert Reviews (3):**
 1. Recent major country show review

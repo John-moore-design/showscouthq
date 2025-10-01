@@ -15,13 +15,13 @@ export function Footer() {
               Your guide to the best country and pop concerts in New York City, Philadelphia, and Boston.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary">
+              <a href="#" className="text-muted-foreground hover:text-primary" aria-label="Follow us on Twitter" title="Follow us on Twitter">
                 <Twitter className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary">
+              <a href="#" className="text-muted-foreground hover:text-primary" aria-label="Follow us on Instagram" title="Follow us on Instagram">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary">
+              <a href="#" className="text-muted-foreground hover:text-primary" aria-label="Email us" title="Email us">
                 <Mail className="h-5 w-5" />
               </a>
             </div>
