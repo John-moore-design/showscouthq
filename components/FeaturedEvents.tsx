@@ -8,8 +8,8 @@ const mockEvents = [
   {
     id: '1',
     title: 'Luke Combs',
-    venue: 'American Airlines Center',
-    city: 'Dallas',
+    venue: 'Madison Square Garden',
+    city: 'New York City',
     date: '2025-10-15',
     genre: 'Country',
     image: '/placeholder-concert.jpg',
@@ -17,8 +17,8 @@ const mockEvents = [
   {
     id: '2',
     title: 'Taylor Swift',
-    venue: 'United Center',
-    city: 'Chicago',
+    venue: 'Wells Fargo Center',
+    city: 'Philadelphia',
     date: '2025-10-22',
     genre: 'Pop',
     image: '/placeholder-concert.jpg',
@@ -26,8 +26,8 @@ const mockEvents = [
   {
     id: '3',
     title: 'Morgan Wallen',
-    venue: 'Bridgestone Arena',
-    city: 'Nashville',
+    venue: 'TD Garden',
+    city: 'Boston',
     date: '2025-11-05',
     genre: 'Country',
     image: '/placeholder-concert.jpg',

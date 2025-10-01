@@ -8,9 +8,9 @@ import { Analytics } from "@/components/Analytics";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ShowScoutHQ - Country & Pop Concerts in Dallas, Nashville & Chicago",
+  title: "ShowScoutHQ - Country & Pop Concerts in New York City, Philadelphia & Boston",
   description: "Discover the best country and pop concerts with insider venue tips, curated picks, and exclusive alerts. Never miss your favorite artists.",
-  keywords: "country concerts, pop concerts, Dallas events, Nashville shows, Chicago concerts, concert tickets, venue guides",
+  keywords: "country concerts, pop concerts, New York City events, Philadelphia shows, Boston concerts, concert tickets, venue guides",
   openGraph: {
     title: "ShowScoutHQ - Your Concert Discovery Platform",
     description: "Discover the best country and pop concerts with insider venue tips and exclusive alerts.",

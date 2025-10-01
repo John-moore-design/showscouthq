@@ -5,23 +5,23 @@ import Link from "next/link";
 
 const cities = [
   {
-    name: 'Dallas',
-    slug: 'dallas',
-    description: 'From the AAC to intimate venues in Deep Ellum, Dallas offers diverse concert experiences.',
+    name: 'New York City',
+    slug: 'new-york-city',
+    description: 'From Madison Square Garden to Brooklyn Steel, NYC offers world-class concerts every night.',
     venues: 12,
     upcomingEvents: 45,
   },
   {
-    name: 'Nashville',
-    slug: 'nashville',
-    description: 'Music City\'s legendary venues host the biggest names in country and pop.',
+    name: 'Philadelphia',
+    slug: 'philadelphia',
+    description: 'Historic venues and a passionate fan base make Philly a must for live music.',
     venues: 18,
     upcomingEvents: 67,
   },
   {
-    name: 'Chicago',
-    slug: 'chicago',
-    description: 'World-class venues and an incredible music scene make Chicago a concert destination.',
+    name: 'Boston',
+    slug: 'boston',
+    description: 'Iconic theaters and arenas across Boston deliver unforgettable shows.',
     venues: 15,
     upcomingEvents: 52,
   },

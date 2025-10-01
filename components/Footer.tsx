@@ -12,7 +12,7 @@ export function Footer() {
               <span className="font-bold">ShowScoutHQ</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              Your guide to the best country and pop concerts in Dallas, Nashville, and Chicago.
+              Your guide to the best country and pop concerts in New York City, Philadelphia, and Boston.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-muted-foreground hover:text-primary">
@@ -30,9 +30,9 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Cities</h3>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/cities/dallas" className="text-muted-foreground hover:text-primary">Dallas</Link></li>
-              <li><Link href="/cities/nashville" className="text-muted-foreground hover:text-primary">Nashville</Link></li>
-              <li><Link href="/cities/chicago" className="text-muted-foreground hover:text-primary">Chicago</Link></li>
+              <li><Link href="/cities/new-york-city" className="text-muted-foreground hover:text-primary">New York City</Link></li>
+              <li><Link href="/cities/philadelphia" className="text-muted-foreground hover:text-primary">Philadelphia</Link></li>
+              <li><Link href="/cities/boston" className="text-muted-foreground hover:text-primary">Boston</Link></li>
             </ul>
           </div>
 

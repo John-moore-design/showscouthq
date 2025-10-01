@@ -23,19 +23,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: `${baseUrl}/cities/dallas`,
+      url: `${baseUrl}/cities/new-york-city`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/cities/nashville`,
+      url: `${baseUrl}/cities/philadelphia`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,
     },
     {
-      url: `${baseUrl}/cities/chicago`,
+      url: `${baseUrl}/cities/boston`,
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.9,

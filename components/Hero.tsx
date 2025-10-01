@@ -16,7 +16,7 @@ export function Hero() {
           </h1>
           
           <p className="text-xl md:text-2xl mb-8 text-purple-100">
-            Discover the best country and pop concerts in Dallas, Nashville, and Chicago with insider venue tips and exclusive alerts.
+            Discover the best country and pop concerts in New York City, Philadelphia, and Boston with insider venue tips and exclusive alerts.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mb-12">

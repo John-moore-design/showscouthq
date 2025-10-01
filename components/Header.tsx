@@ -19,14 +19,14 @@ export function Header() {
             Venues
           </Link>
           <div className="flex items-center space-x-4">
-            <Link href="/cities/dallas" className="transition-colors hover:text-primary">
-              Dallas
+            <Link href="/cities/new-york-city" className="transition-colors hover:text-primary">
+              New York City
             </Link>
-            <Link href="/cities/nashville" className="transition-colors hover:text-primary">
-              Nashville
+            <Link href="/cities/philadelphia" className="transition-colors hover:text-primary">
+              Philadelphia
             </Link>
-            <Link href="/cities/chicago" className="transition-colors hover:text-primary">
-              Chicago
+            <Link href="/cities/boston" className="transition-colors hover:text-primary">
+              Boston
             </Link>
           </div>
           <Link href="/blog" className="transition-colors hover:text-primary">
@@ -41,3 +41,4 @@ export function Header() {
     </header>
   );
 }
+

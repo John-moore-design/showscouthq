@@ -12,7 +12,7 @@ export interface Event {
     slug: string;
     artist: string;
     venue: string;
-    city: 'Dallas' | 'Nashville' | 'Chicago';
+    city: 'New York City' | 'Philadelphia' | 'Boston';
     date: string;
     genre: 'Country' | 'Pop';
     featuredImage: any;
@@ -27,7 +27,7 @@ export interface Article {
     title: string;
     slug: string;
     type: 'review' | 'venue-guide' | 'city-guide';
-    city: 'Dallas' | 'Nashville' | 'Chicago';
+    city: 'New York City' | 'Philadelphia' | 'Boston';
     genre?: 'Country' | 'Pop';
     excerpt: string;
     content: any;
